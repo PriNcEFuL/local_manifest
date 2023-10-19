@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/alioth" name="Chaitanyakm/device_xiaomi_alioth.git" remote="github" revision="thirteen" />
+ <project path="device/xiaomi/sm8250-common" name="Chaitanyakm/device_xiaomi_sm8250-common.git" remote="github" revision="thirteen" />
+ <project path="vendor/xiaomi/alioth" name="Chaitanyakm/vendor_xiaomi_alioth.git" remote="github" revision="thirteen" />
+ <project path="vendor/xiaomi/sm8250-common" name="Chaitanyakm/vendor_xiaomi_sm8250-common.git" remote="github" revision="thirteen" />
+ <project path="kernel/xiaomi/alioth" name="VoidUI-Devices/kernel_xiaomi_sm8250.git" remote="github" revision="aosp-13" />
+ 
+</manifest>
